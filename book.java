@@ -3,5 +3,6 @@ public class A{
 		System.out.println("I am Ragavan");
 		System.out.println();
 		int b=100;
+		int c=5000;
 	}
 }
